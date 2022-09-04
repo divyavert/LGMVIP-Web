@@ -1,0 +1,92 @@
+.to-contatiner {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  width: 30rem;
+  box-shadow: 0.5rem 0.5rem 1rem rgb(84, 84, 84);
+  min-height: 30rem;
+  border-radius: 1rem;
+  margin-top: 1 rem;
+  background-color: #472D2D;
+}
+
+.heading {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.heading h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #472D2D;
+}
+
+.todo-form {
+  gap: 0.5rem;
+  display: flex;
+  width: 100%;
+  margin-top: 2rem;
+
+
+}
+
+.todo-input {
+  border: 3px solid wheat;
+  border-radius: 0.4 rem;
+  padding: 0.5rem;
+  background-color: #42855B;
+}
+
+.todo-input::placeholder {
+  margin-left: 1rem;
+  color: white;
+  background-color: #42855B;
+
+}
+
+.todo-btn {
+  border: 1px solid black;
+  background-color: wheat;
+  border-radius: 0.4rem;
+  padding: 0rem 0.3rem;
+}
+
+.task-div {
+  background-color: #A77979;
+  padding: 0.6rem;
+  display: flex;
+  margin: 0.5rem;
+
+  justify-content: space-between;
+  border-radius: 0.4rem;
+  align-items: center;
+}
+
+.todo-text {
+  color: white;
+  font-size: 1.2 rem;
+}
+
+.icon {
+  font-size: 5 rem;
+  gap: 1rem;
+}
+
+.complete {
+  text-decoration: line-through;
+  opacity: 0.5rem;
+}
+
+.icons {
+  gap: 1rem;
+}
+
+.hide {
+  display: none;
+}
+@media only screen and (max-width: 768px) {
+  .to-contatiner {
+    width: 20rem;
+  }
+
+}
