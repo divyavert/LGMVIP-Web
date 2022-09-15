@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/apiCallProject/static/css/main.925b9c68.css",
+    "main.js": "/apiCallProject/static/js/main.d1463ed8.js",
+    "static/js/787.28cb0dcd.chunk.js": "/apiCallProject/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/apiCallProject/index.html",
+    "main.925b9c68.css.map": "/apiCallProject/static/css/main.925b9c68.css.map",
+    "main.d1463ed8.js.map": "/apiCallProject/static/js/main.d1463ed8.js.map",
+    "787.28cb0dcd.chunk.js.map": "/apiCallProject/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.925b9c68.css",
+    "static/js/main.d1463ed8.js"
+  ]
+}

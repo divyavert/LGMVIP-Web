@@ -1,0 +1,27 @@
+.main {
+
+
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+
+  background-color: #553939;
+}
+
+
+
+.card {
+  width: 18rem;
+}
+
+.card-text {
+  color: white;
+}
+
+.navbar-brand {
+  color: white;
+}
+.card{
+  margin: 1rem;
+}
